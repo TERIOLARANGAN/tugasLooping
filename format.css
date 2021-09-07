@@ -11,6 +11,7 @@ width: 100%;
 height: fit-content;
 border: 5px solid purple;
 background-color: cadetblue;
+color: brown;
 box-sizing: border-box;
 flex: 50%;
 }
